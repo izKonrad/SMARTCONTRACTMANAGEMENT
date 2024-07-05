@@ -22,5 +22,5 @@ I highly suggest to use the Gitpod to run this code, but it is also working for 
 Typically at http://localhost:3000/
 
 ## Authors
-  Konrad Orata
+  - Konrad Orata
    - GitHub: @izKonrad

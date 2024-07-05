@@ -23,4 +23,4 @@ Typically at http://localhost:3000/
 
 ## Authors
   Konrad Orata
-  GitHub: @izKonrad
+   - GitHub: @izKonrad

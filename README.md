@@ -13,12 +13,11 @@ I highly suggest to use the Gitpod to run this code, but it is also working for 
 1. Cloning the github repository :
   git clone https://github.com/izKonrad/SMARTCONTRACTMANAGEMENT
 2. Inside the project directory, in the terminal type: npm i
-3.  Open two additional terminals in your VS code
-4.  In the second terminal type: npx hardhat node
+3. Open two additional terminals in your VS code
+4. In the second terminal type: npx hardhat node
 5. In the third terminal, type: npx hardhat run --network localhost scripts/deploy.js
-6.  Back in the first terminal, type npm run dev to launch the front-end.
-
-(7)After this, the project will be running on your localhost. 
+6. Back in the first terminal, type npm run dev to launch the front-end.
+7. After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
 
 ## Authors

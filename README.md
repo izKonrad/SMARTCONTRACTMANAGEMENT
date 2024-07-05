@@ -1,4 +1,4 @@
-# SMART CONTRACT MANAGEMENT/ ETHAVAX ASSESSMENT 2
+# SMART CONTRACT MANAGEMENT/ ETH+AVAX ASSESSMENT 2
 ## Overview
 This project is a smart contract management in ETH + Avax Assessment, it is the same as an ATM machine and it has a 4 functions that is fully displayed in the frontend app as well as the important values of it. The functions are:
 1. Connecting your MetaMask wallet and display the balance.

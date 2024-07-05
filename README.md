@@ -4,7 +4,7 @@ This project is a smart contract management in ETH + Avax Assessment, it is the 
 1. Connecting your MetaMask wallet and display the balance.
 2. Withdraw and deposit ETH in different values such as 1, 2, and 3.
 3. ETH Multiplier
-4. ETH Divider by half
+4. ETH Divider by HALF
 
 ### Getting Started
 I highly suggest to use the Gitpod to run this code, but it is also working for other compiler.
@@ -23,4 +23,4 @@ Typically at http://localhost:3000/
 
 ## Authors
   Konrad Orata
-    GitHub: @izKonrad
+  GitHub: @izKonrad

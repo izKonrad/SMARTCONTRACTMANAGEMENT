@@ -67,7 +67,7 @@ export default function HomePage() {
       }
     }
   };
-
+  const recipientAddress = "0x2546BcD3c84621e976D8185a91A922aE77ECEc30";
   const deposit = async () => {
     if (atm) {
       let tx = await atm.deposit(1);
